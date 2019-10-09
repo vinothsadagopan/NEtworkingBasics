@@ -1,3 +1,3 @@
 # NEtworkingBasics
-Networking Basic Programming for Coursework
-Basics of Networking 
+Networking Basic Programming for Computer Communications and Networking Coursework
+
